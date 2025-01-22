@@ -1,0 +1,1 @@
+This repository contains  programs related to tree data structures, which include various operations typically performed on binary trees. These programs implement basic tree operations such as construction, traversal, counting nodes, summing node values, and calculating the height of the tree. Each program demonstrates a specific functionality using the tree data structure.
